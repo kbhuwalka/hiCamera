@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "442075545653",
+    "firebase_url": "https://mlkit-a4c77.firebaseio.com",
+    "project_id": "mlkit-a4c77",
+    "storage_bucket": "mlkit-a4c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442075545653:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442075545653-0gdo2h16v807gtm8fujq996tslltp6lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.samples.apps.mlkit",
+            "certificate_hash": "866be59f02a306a43327a7d2ecb51c644c089ec5"
+          }
+        },
+        {
+          "client_id": "442075545653-k6isgk522khp6u18f23jf6qdptedcbtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OoJ6vTuM8EurCRE0Tjkrl14pXwKVzYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442075545653-k6isgk522khp6u18f23jf6qdptedcbtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442075545653:android:1d0b34703b25e522",
+        "android_client_info": {
+          "package_name": "com.kunalbhuwalka.android.hicam.hicam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442075545653-drpe3ma151b7t4155kuh0gtj20hp9l43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kunalbhuwalka.android.hicam.hicam",
+            "certificate_hash": "866be59f02a306a43327a7d2ecb51c644c089ec5"
+          }
+        },
+        {
+          "client_id": "442075545653-k6isgk522khp6u18f23jf6qdptedcbtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OoJ6vTuM8EurCRE0Tjkrl14pXwKVzYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442075545653-k6isgk522khp6u18f23jf6qdptedcbtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
